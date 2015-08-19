@@ -4,7 +4,7 @@ Convert your map into .svg for printing. Actually it works with anything (not an
 
 ##How to use it
 
-####You need to have [nodeJS](https://nodejs.org) installed. 
+You need to have [nodeJS](https://nodejs.org) installed. 
 
 ####Copy this repository
 
@@ -30,7 +30,7 @@ If not, install it (you may need to be su to run this one):
     npm install
 ```
 
-This will install D3, express (the server so you can see your work in progress in the browser) and node-jsdom (to savethe .svg file)
+This will install [D3](http://d3js.org/), [express](http://expressjs.com/) (the server so you can see your work in progress in the browser) and [node-jsdom](https://www.npmjs.com/package/node-jsdom) (to savethe .svg file)
 
 ####Run the server and watch your scripts for modification
 
