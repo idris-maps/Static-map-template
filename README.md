@@ -8,7 +8,9 @@ Convert your map into .svg for printing. Actually it works with anything (not an
 
 1. Copy this repository
 
+```
     git clone https://github.com/idris-maps/Static-map-template.git
+```
 
 2. Check if you have watchify installed
 
