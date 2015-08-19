@@ -2,6 +2,11 @@
 
 Convert your map into .svg for printing. Actually it works with anything (not animated) you do with D3.
 
+####Examples
+[Map of the Philippines](https://raw.githubusercontent.com/idris-maps/map-of-the-philippines/master/map.png)
+
+[Map of Europe](https://raw.githubusercontent.com/idris-maps/map-of-europe/master/map.png)
+
 ##How to use it
 
 You need to have [nodeJS](https://nodejs.org) installed. 
