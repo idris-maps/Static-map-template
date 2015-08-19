@@ -12,21 +12,29 @@ Convert your map into .svg for printing. Actually it works with anything (not an
 
 2. Check if you have watchify installed
 
-    watchify --version
+```
+      watchify --version
+```
 
 If not, install it (you may need to be su to run this one):
 
+```
     npm install watchify -g
+```
 
 3. Install the libraries:
 
+```
     npm install
+```
 
 This will install D3, express (the server so you can see your work in progress in the browser) and node-jsdom (to savethe .svg file)
 
 4. Run the server and watch your scripts for modification
 
+```
     npm run show
+```
 
 The server runs on port 3000. If you wish to change that you can do so in the 'server.js' file. Check if it works in the browser at http://localhost:3000/ . You should see the word 'template' 
 
@@ -34,7 +42,9 @@ The server runs on port 3000. If you wish to change that you can do so in the 's
 
 6. When you are satisfied with your map, run
 
+```
     node saveSvg
+```
 
 in the main folder to create a 'map.svg' file.
 
