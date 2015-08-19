@@ -3,9 +3,9 @@
 Convert your map into .svg for printing. Actually it works with anything (not animated) you do with D3.
 
 ####Examples
-[Map of the Philippines](https://raw.githubusercontent.com/idris-maps/map-of-the-philippines/master/map.png)
+[Map of the Philippines](https://github.com/idris-maps/map-of-the-philippines)
 
-[Map of Europe](https://raw.githubusercontent.com/idris-maps/map-of-europe/master/map.png)
+[Map of Europe](https://github.com/idris-maps/map-of-europe)
 
 ##How to use it
 
